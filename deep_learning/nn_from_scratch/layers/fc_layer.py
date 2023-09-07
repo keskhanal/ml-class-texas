@@ -1,5 +1,5 @@
 import numpy as np
-from layer import Layer
+from layers.layer import Layer
 
 class FCLayer(Layer):
     """A fully connected layer of neurons in a neural network.

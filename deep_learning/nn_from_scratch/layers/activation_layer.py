@@ -1,4 +1,4 @@
-from layer import Layer
+from layers.layer import Layer
 
 class ActivationLayer(Layer):
     """A class representing a layer in a neural network that applies an activation function to its input.
